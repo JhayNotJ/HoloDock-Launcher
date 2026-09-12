@@ -1,55 +1,15 @@
 {
   "version": 1,
   "wallpapers": [
-    {
-      "id": 1,
-      "name": "HoloDock Wallpaper 1",
-      "file": "holodock_wallpaper1.png"
-    },
-    {
-      "id": 2,
-      "name": "HoloDock Wallpaper 2",
-      "file": "holodock_wallpaper2.png"
-    },
-    {
-      "id": 3,
-      "name": "HoloDock Wallpaper 3",
-      "file": "holodock_wallpaper3.png"
-    },
-    {
-      "id": 4,
-      "name": "HoloDock Wallpaper 4",
-      "file": "holodock_wallpaper4.png"
-    },
-    {
-      "id": 5,
-      "name": "HoloDock Wallpaper 5",
-      "file": "holodock_wallpaper5.png"
-    },
-    {
-      "id": 6,
-      "name": "HoloDock Wallpaper 6",
-      "file": "holodock_wallpaper6.png"
-    },
-    {
-      "id": 7,
-      "name": "HoloDock Wallpaper 7",
-      "file": "holodock_wallpaper7.png"
-    },
-    {
-      "id": 8,
-      "name": "HoloDock Wallpaper 8",
-      "file": "holodock_wallpaper8.png"
-    },
-    {
-      "id": 9,
-      "name": "HoloDock Wallpaper 9",
-      "file": "holodock_wallpaper9.png"
-    },
-    {
-      "id": 10,
-      "name": "HoloDock Wallpaper 10",
-      "file": "holodock_wallpaper10.png"
-    }
+    { "id": 1, "file": "holodock_wallpaper1.png" },
+    { "id": 2, "file": "holodock_wallpaper2.png" },
+    { "id": 3, "file": "holodock_wallpaper3.png" },
+    { "id": 4, "file": "holodock_wallpaper4.png" },
+    { "id": 5, "file": "holodock_wallpaper5.png" },
+    { "id": 6, "file": "holodock_wallpaper6.png" },
+    { "id": 7, "file": "holodock_wallpaper7.png" },
+    { "id": 8, "file": "holodock_wallpaper8.png" },
+    { "id": 9, "file": "holodock_wallpaper9.png" },
+    { "id": 10, "file": "holodock_wallpaper10.png" }
   ]
 }
